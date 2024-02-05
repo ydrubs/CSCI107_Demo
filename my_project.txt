@@ -1,1 +1,3 @@
 something was written
+
+Something was added after the changes were staged
